@@ -20,7 +20,7 @@ group :assets do
 end
 
 group :development do
-gem 'sqlite3', '1.3.10'
+gem 'sqlite3', '1.3.5'
 end
 
 gem 'jquery-rails'
